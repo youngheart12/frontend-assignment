@@ -5,7 +5,7 @@
 
 You are required to fetch the details of the highly-rated kickstarter projects by implementing an AJAX call to their APIs.
 
-Use the web API (link : https://s3-ap-southeast-1.amazonaws.com/he-public-data/kickstarterc27b67e.json) ) to fetch the details of specific projects.
+Use the web API (link : https://raw.githubusercontent.com/saaslabsco/frontend-assignment/refs/heads/master/frontend-assignment.json) ) to fetch the details of specific projects.
 
 ## Minimum Requirements
 
