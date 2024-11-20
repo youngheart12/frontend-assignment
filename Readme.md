@@ -36,6 +36,9 @@ Use the web API (link : https://raw.githubusercontent.com/saaslabsco/frontend-as
 1. Do changes to the above assignment.
 1. Email the assignment back to us with:
     1. Link of the open source repo.
-    1. Link of the assignment hosted online. (You can use any free tools to host this assignment, eg. vercel, netlify, heroku, etc.). It should be accessible online for atleast 7 days.
+    1. Link of the assignment hosted online. (You can use any free tools to host this assignment, eg. vercel, netlify or heroku). It should be accessible online for atleast 7 days.
 
 
+## Note
+
+Result on platforms like codesandbox, replit are not accepted.
